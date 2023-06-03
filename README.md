@@ -60,9 +60,7 @@
   * Requires _AUTOMATIC REFRESH_ after Quick Sort
 
 
-# LICENSE
 
->
 >If you like this repository dont forget to give a star &#128077;
 
 
