@@ -20,27 +20,23 @@
 > Hope you like this simple website
 > Thank You ! 
 >
->Have a nice day &#128512;
+
 
 ---
 
 # PRODUCTION 
-|Sl.| _Release Date_ | _Version_    | _Author_ |
-|---|----------------|--------------|----------|
-|1  |23th Dec, 2020  |v0.123.122.020|*`Sandeep Shaw`*|
+|Sl.| _Release Date_ |  _Author_ |
+|---|----------------------------|
+|1  |20th April, 2023  |Abhishek`*|
 
 
 ### WEBSITE TYPE : _*`Static`*_
-
-### CATEGORY : _`Educational`_
 
 ### LANGUAGE :  `HTML5` `CSS3` `JavaScript`
 
 ### LIBRARY / FRAMEWORK : `JQuery` `Bootstrap`
 
 ### DATABASE TYPE : ~~`NoSQL`~~ ~~`Relational SQL`~~
-
-### DATABASE USED : `nil`
 
 ### DEPLOYMENT : `GitBash`
 
@@ -52,11 +48,9 @@
   * Responsive across a wider range of device
   * Smooth Scrolling
   * Attractive UI
-  * Single Page Application
   * Visualization with attractive colors and effects
   * Can understand the basics of Sorting through Definition
   * Know the time and space complexity through pictorial representation
-  * Access the code snippet for various sorting in 4 different programming language (*_SOURCE_* : GeeksforGeek and Tutorialspoint)
   * Provide source to learn better and master this sorting Techniques (*_SOURCE_* : GeeksforGeek)
 
 
@@ -80,7 +74,7 @@
   2. Learned how to use the classes of `Bootstrap` to make the code responsive. The concept and the use of grid system became more crystal clear
   3. The most important part is that, the use of delay function e.g setTimeout() helped me a lot to render the vizualization
   4. I rely on HTML Structure `div` and Jquery for the animations and it worked well without `CANVAS`
-  5. Learned how to scrape the content inside the HTML Structure using Jquery inorder to get copied in the clipboard
+ 
 
 # FUTURE IMPLEMENTATION
   1. Merge the entire `.js` script into a single file
