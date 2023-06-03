@@ -36,9 +36,7 @@
 
 ### LIBRARY / FRAMEWORK : `JQuery` `Bootstrap`
 
-### DATABASE TYPE : ~~`NoSQL`~~ ~~`Relational SQL`~~
-
-### DEPLOYMENT : `GitBash`
+### DEPLOYMENT : `Netlify`
 
 ### CODE EDITOR : `Visual Studio`
 
